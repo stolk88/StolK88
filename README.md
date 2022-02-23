@@ -1,3 +1,5 @@
-- 👋 Hi, I’m @StolK88
-- 👀 I make more stuff look on my youtube https://www.youtube.com/user/mtacstolk/videos
-- 💞️ Also check out my Tebex https://stolk.tebex.io/category/qb-scripts-by-stolk
+### 👋 Hi, I’m @StolK88
+
+
+## 👀 I make more stuff look on my youtube <a href="https://www.youtube.com/user/mtacstolk/videos">YouTube/a>
+## 💞️ Also check out my <a href="https://stolk.tebex.io/category/qb-scripts-by-stolk">Tebex/a>
